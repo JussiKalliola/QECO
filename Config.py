@@ -27,7 +27,7 @@ class Config(object):
 
 
     # Simulation scenario
-    N_EPISODE        = 1000                 # Number of Episodes
+    N_EPISODE        = 300 #1000                 # Number of Episodes
     N_TIME_SLOT      = 100                  # Number of Time Slots
     DURATION         = 0.1                  # Time Slot Duration
     TASK_ARRIVE_PROB = 0.3                  # Task Generation Probability
